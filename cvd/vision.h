@@ -24,6 +24,7 @@
 
 #include <vector>
 #include <memory>
+#include <stdint.h>
 
 #include <cvd/exceptions.h>
 #include <cvd/image.h>
