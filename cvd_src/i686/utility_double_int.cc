@@ -1,6 +1,7 @@
 #include "cvd/utility.h"
 #include "cvd_src/utility_helpers.h"
 #include <emmintrin.h>
+#include <algorithm>
 
 namespace CVD {
 

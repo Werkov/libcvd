@@ -1,7 +1,7 @@
 #include "cvd/utility.h"
 #include "cvd_src/utility_helpers.h"
 
-
+#include <algorithm>
 #include <xmmintrin.h>
 
 
